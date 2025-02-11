@@ -1,6 +1,6 @@
 # Projeto - DaRoça Mecânico
 
-### Realizado em 2024, este programa foi desenvolvido para automatizar a criação de horários de trabalho de um mecânico, substituindo o processo manual de preenchimento em uma tabela Excel. O objetivo principal foi minimizar erros de digitação e aumentar a eficiência ao evitar o preenchimento manual.
+Realizado em 2024, este programa foi desenvolvido para automatizar a criação de horários de trabalho de um mecânico, substituindo o processo manual de preenchimento em uma tabela Excel. O objetivo principal foi minimizar erros de digitação e aumentar a eficiência ao evitar o preenchimento manual.
 
 ## TI129 - Prática Profissional I
 
@@ -13,7 +13,7 @@
 
 ## 📝 Descrição
 
-### O Projeto DaRoça Mecânico é uma ferramenta desenvolvida para otimizar o processo de criação de horários de mecânicos, evitando erros humanos e garantindo maior precisão e agilidade. O sistema foi implementado para facilitar a organização e o gerenciamento de agendas, automatizando tarefas que anteriormente eram feitas manualmente, como o preenchimento de horários e a gestão de disponibilidade.
+O Projeto DaRoça Mecânico é uma ferramenta desenvolvida para otimizar o processo de criação de horários de mecânicos, evitando erros humanos e garantindo maior precisão e agilidade. O sistema foi implementado para facilitar a organização e o gerenciamento de agendas, automatizando tarefas que anteriormente eram feitas manualmente, como o preenchimento de horários e a gestão de disponibilidade.
 
 ## 👨‍💻 Tecnologias Utilizadas:
 
