@@ -15,6 +15,11 @@
 
 ### O Projeto DaRoça Mecânico é uma ferramenta desenvolvida para otimizar o processo de criação de horários de mecânicos, evitando erros humanos e garantindo maior precisão e agilidade. O sistema foi implementado para facilitar a organização e o gerenciamento de agendas, automatizando tarefas que anteriormente eram feitas manualmente, como o preenchimento de horários e a gestão de disponibilidade.
 
+## 👨‍💻 Tecnologias Utilizadas:
+
+* Python: Utilizado para criar a lógica do programa, que roda no terminal. O Python foi responsável por capturar os dados inseridos no terminal e enviá-los para o SQL Server.
+* SQL Server: Os dados disponibilizados pelo professor estavam armazenados no banco de dados. O programa, rodando no terminal, recebe os dados inseridos pelo usuário e os armazena nas tabelas já criadas no SQL Server.
+
 ## 🗃 Histórico de lançamentos
 
 Versão    | Data       | O que há de novo
