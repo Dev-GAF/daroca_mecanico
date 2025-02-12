@@ -1,33 +1,33 @@
-# Projeto - DaRoça Mecânico
+# Project - DaRoça Mecânico (My First Project)
 
-Realizado em 2024, este programa foi desenvolvido para automatizar a criação de horários de trabalho de um mecânico, substituindo o processo manual de preenchimento em uma tabela Excel. O objetivo principal foi minimizar erros de digitação e aumentar a eficiência ao evitar o preenchimento manual.
+Completed in 2024, this program was developed to automate the creation of work schedules for a mechanic, replacing the manual process of filling out an Excel table. The main goal was to minimize typing errors and increase efficiency by avoiding manual entry.
 
-## TI129 - Prática Profissional I
+## TI129 - Professional Practice I
 
-## 🧑‍🎓 Integrantes
+## 🧑‍🎓 Team Members
 
 * Kauan Cabral (PO - Product Owner)
-* Guilherme Fortes (DS - Desenvolvedor de Sistemas; AS - Analista de Sistemas)
-* Lucas Proença (DS - Desenvolvedor de Sistemas)
-* Maria Julia (DS - Desenvolvedora de Sistemas)
+* Guilherme Fortes (DS - Software Developer)
+* Lucas Proença (DS - Software Developer)
+* Maria Julia (DS - Software Developer)
 
-## 📝 Descrição
+## 📝 Description
 
-O Projeto DaRoça Mecânico é uma ferramenta desenvolvida para otimizar o processo de criação de horários de mecânicos, evitando erros humanos e garantindo maior precisão e agilidade. O sistema foi implementado para facilitar a organização e o gerenciamento de agendas, automatizando tarefas que anteriormente eram feitas manualmente, como o preenchimento de horários e a gestão de disponibilidade.
+The DaRoça Mecânico Project is a tool developed to optimize the process of creating mechanic schedules, avoiding human errors and ensuring greater accuracy and speed. The system was implemented to facilitate the organization and management of schedules, automating tasks that were previously done manually, such as filling out hours and managing availability.
 
-## 👨‍💻 Tecnologias Utilizadas:
+## 👨‍💻 Technologies Used:
 
-* Python: Utilizado para criar a lógica do programa, que roda no terminal. O Python foi responsável por capturar os dados inseridos no terminal e enviá-los para o SQL Server.
-* SQL Server: Os dados disponibilizados pelo professor estavam armazenados no banco de dados. O programa, rodando no terminal, recebe os dados inseridos pelo usuário e os armazena nas tabelas já criadas no SQL Server.
+* Python: Used to create the logic of the program, which runs in the terminal. Python was responsible for capturing the data entered in the terminal and sending it to the SQL Server.
+* Microsoft SQL Server: The data provided by the teacher was stored in the database. The program, running in the terminal, receives the data entered by the user and stores it in the tables already created in SQL Server.
 
-## 🗃 Histórico de lançamentos
+## 🗃 Release History
 
-Versão    | Data       | O que há de novo
+Version    | Date       | What's New
 --------- | ---------  | ---------
-1.0       | 10/04/2024 | Primeira versão lançada, funcionalidades iniciais implementadas
+1.0       | 04/10/2024 | First version released, initial features implemented
 ...
-5.0       | 27/06/2024 | Entrega do Projeto
+5.0       | 06/27/2024 | Project delivery
 
-## 📋 Licença
+## 📋 License
 
-### Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+### This project is licensed under the MIT License. See the LICENSE file for more details.
